@@ -1,0 +1,107 @@
+/**
+* Name: Marc Julian Jamerlan
+* Lab: Lab 5
+* Date: 9/30/18
+**/
+
+ALGORITHM: SJF
+
+PROCESSES:
+Name    	Entry	Burst
+P1			0		15
+P2			2		6
+P3			5		2
+
+T0:
+CPU: P1(15)
+QUEUE: <empty>
+
+T1:
+CPU: P1(14)
+QUEUE: <empty>
+
+T2:
+CPU: P1(13)
+QUEUE: P2(6) 
+
+T3:
+CPU: P1(12)
+QUEUE: P2(6) 
+
+T4:
+CPU: P1(11)
+QUEUE: P2(6) 
+
+T5:
+CPU: P1(10)
+QUEUE: P2(6) P3(2) 
+
+T6:
+CPU: P1(9)
+QUEUE: P2(6) P3(2) 
+
+T7:
+CPU: P1(8)
+QUEUE: P2(6) P3(2) 
+
+T8:
+CPU: P1(7)
+QUEUE: P2(6) P3(2) 
+
+T9:
+CPU: P1(6)
+QUEUE: P2(6) P3(2) 
+
+T10:
+CPU: P1(5)
+QUEUE: P2(6) P3(2) 
+
+T11:
+CPU: P1(4)
+QUEUE: P2(6) P3(2) 
+
+T12:
+CPU: P1(3)
+QUEUE: P2(6) P3(2) 
+
+T13:
+CPU: P1(2)
+QUEUE: P2(6) P3(2) 
+
+T14:
+CPU: P1(1)
+QUEUE: P2(6) P3(2) 
+
+T15:
+CPU: P3(2)
+QUEUE: P2(6) 
+
+T16:
+CPU: P3(1)
+QUEUE: P2(6) 
+
+T17:
+CPU: P2(6)
+QUEUE: <empty>
+
+T18:
+CPU: P2(5)
+QUEUE: <empty>
+
+T19:
+CPU: P2(4)
+QUEUE: <empty>
+
+T20:
+CPU: P2(3)
+QUEUE: <empty>
+
+T21:
+CPU: P2(2)
+QUEUE: <empty>
+
+T22:
+CPU: P2(1)
+QUEUE: <empty>
+
+Average Wait Time: 8.33 time units

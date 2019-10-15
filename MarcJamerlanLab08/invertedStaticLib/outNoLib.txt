@@ -1,0 +1,57 @@
+/**
+* Name: Marc Julian Jamerlan
+* Lab: Lab 8 Static Library
+* Date: 10/19/18
+**/
+
+translate(1, 20, 5) = 5
+translate(20, 9, 3138) = 7234
+translate(18, 9, 1051) = 9243
+translate(4, 0, 3984) = 16272
+translate(17, 7, 3403) = 19787
+translate(9, 12, 3397) = 23877
+translate(2, 18, 1334) = 25910
+translate(4, 19, 3800) = 32472
+translate(12, 14, 1346) = 34114
+translate(17, 10, 3277) = 40141
+translate(20, 16, 3337) = 44297
+translate(16, 16, 1109) = 46165
+translate(12, 13, 2933) = 52085
+translate(17, 17, 3113) = 56361
+translate(16, 14, 423) = 57767
+translate(13, 2, 2831) = 64271
+translate(9, 5, 2409) = 67945
+translate(16, 10, 2176) = 71808
+translate(15, 2, 852) = 74580
+translate(1, 19, 2850) = 80674
+translate(17, 19, 1979) = 83899
+translate(13, 15, 1022) = 87038
+translate(19, 6, 3596) = 93708
+translate(13, 3, 2901) = 97109
+translate(8, 19, 1607) = 99911
+translate(10, 12, 2186) = 104586
+translate(4, 1, 3317) = 109813
+translate(16, 17, 1253) = 111845
+translate(6, 11, 1698) = 116386
+translate(11, 12, 1482) = 120266
+translate(4, 9, 1179) = 124059
+translate(14, 2, 96) = 127072
+translate(20, 1, 1370) = 132442
+translate(17, 14, 1959) = 137127
+translate(11, 2, 1750) = 141014
+translate(19, 13, 51) = 143411
+translate(9, 17, 259) = 147715
+translate(5, 13, 3709) = 155261
+translate(12, 19, 1912) = 157560
+translate(0, 10, 312) = 160056
+translate(7, 14, 2185) = 166025
+translate(13, 8, 2676) = 170612
+translate(14, 7, 2895) = 174927
+translate(0, 4, 1679) = 177807
+translate(10, 16, 2143) = 182367
+translate(19, 14, 612) = 184932
+translate(19, 3, 4015) = 192431
+translate(20, 9, 2473) = 6569
+translate(18, 1, 2258) = 194770
+translate(7, 1, 127) = 196735
+translate(9, 8, 3025) = 203729
